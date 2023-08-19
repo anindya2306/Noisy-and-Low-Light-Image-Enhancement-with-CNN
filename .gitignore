@@ -159,5 +159,6 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-Weights/*
-Weights
+Weights\.data-00000-of-00001
+Weights\.index
+Weights\checkpoint
